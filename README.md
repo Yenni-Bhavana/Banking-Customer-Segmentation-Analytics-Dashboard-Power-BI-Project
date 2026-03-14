@@ -53,7 +53,6 @@ Shows how customers are distributed across age groups:
 26–35: 0.26M customers                                                                                     
 50+: 0.16M customers                                                                                    
 18–25: 0.01M customers                                                                   
-
 #### Insight:
 The 36–50 age group dominates the customer base, indicating that mid-career individuals are the most active banking customers.
 
@@ -63,7 +62,6 @@ This visualization shows average balance across age groups.
 50+: ~0.30M                                                 
 36–50: ~0.09M                                                       
 26–35: ~0.03M                                                            
-
 #### Insight:
 Younger customers (18–25) show higher average balances in this dataset, which may indicate fewer but higher-balance accounts.
 
@@ -74,7 +72,6 @@ Low Value: 75.85% Male
 Medium Value: 70.72% Male                                                
 High Value: 69.25% Male                                                                            
 Premium: 71.58% Male                                                                       
-
 #### Insight:
 Male customers dominate across all financial segments.
 
@@ -174,9 +171,15 @@ Lower-value segments generate higher transaction counts, while premium segments 
 
 ### Business Value
 This dashboard can help banks:
-
 * Identify high-value customers
 * Understand transaction behavior
 * Track customer financial distribution
 * Improve customer segmentation strategies
 * Support data-driven business decisions
+
+### Key Insights:
+* Premium customers hold the highest total balance (~91.76 bn) even though their count is lower, making them the most valuable segment for the bank.
+* Low value customers are the largest group (~372K customers) and generate the highest number of transactions (~398K).
+* The 36–50 age group has the highest number of customers (~0.54M), showing that this age group forms the core customer base.
+* Male customers dominate the customer base (~71%) and contribute to the majority of transactions.
+* A small group of top customers contributes a large share of the total transaction amount, highlighting the importance of high-value customers.
