@@ -11,8 +11,8 @@ The objective of this project is to help financial institutions gain insights in
 * Financial distribution across segments
 
 The project contains two interactive dashboards:
-1️. Bank Customer Segmentation Dashboard
-2️. Transaction Analytics Dashboard
+1️. Bank Customer Segmentation Dashboard                                                     
+2️. Transaction Analytics Dashboard                                                                        
 These dashboards together provide a complete view of customer distribution, financial strength, and transaction behavior.
 
 ## Dashboard 1: Bank Customer Segmentation
