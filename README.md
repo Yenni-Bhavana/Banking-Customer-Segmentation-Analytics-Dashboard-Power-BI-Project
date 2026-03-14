@@ -10,7 +10,7 @@ The objective of this project is to help financial institutions gain insights in
 * High-value customer identification
 * Financial distribution across segments
 
-The project contains two interactive dashboards:
+The project contains two interactive dashboards:                                                                        
 1️. Bank Customer Segmentation Dashboard                                                     
 2️. Transaction Analytics Dashboard                                                                        
 These dashboards together provide a complete view of customer distribution, financial strength, and transaction behavior.
@@ -30,7 +30,7 @@ These KPIs provide a quick overview of the financial scale and customer base of 
 
 # Visualizations & Insights
 ### Customer Segment Distribution
-A donut chart showing how customers are categorized:                                                           
+A donut chart showing how customers are categorized:                                                                                                  
 Low Value: 372K (37.67%)                                                            
 Medium Value: 339K (34.27%)                                                             
 High Value: 176K (17.8%)                                                                            
@@ -39,9 +39,9 @@ Premium Customers: 101K (10.26%)
 Most customers belong to Low and Medium Value segments, while Premium customers represent the smallest but most valuable group.
 
 ### Customer Balance Distribution
-This chart compares total balance held by each segment.                                                                      
-Premium Customers: 91.76B                                                                          
-High Value: 18.06B                                                                                      
+This chart compares total balance held by each segment.                                                                                                          
+Premium Customers: 91.76B                                                                                                                        
+High Value: 18.06B                                                                                              
 Medium Value: 8.63B                                                                                                        
 Low Value: 1.38B                                                                                             
 #### Insight:
@@ -76,7 +76,7 @@ Premium: 71.58% Male
 Male customers dominate across all financial segments.
 
 ### Gender Distribution
-Pie chart showing overall gender split:                                                        
+Pie chart showing overall gender split:                                                                                       
 Male: 671K (71.43%)                                                              
 Female: 268K (28.57%)                                                              
 #### Insight: 
@@ -116,7 +116,7 @@ Others range between 0.6M–1M
 These customers represent high-value banking clients who may benefit from personalized services.
 
 ### Balance vs Transaction Amount
-Scatter plot comparing:                                          
+Scatter plot comparing:                                                                                
 Customer Account Balance                                            
 Total Transaction Amount                                                              
 Segmented by Age Groups:                                                                
